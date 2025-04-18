@@ -10,6 +10,14 @@ The goal of this project is to **sharpen my skills in writing and understanding 
 - Compare approaches across **Azure** and **AWS**.
 - Build a solid foundation to then built on top of. 
 
+## Projects
+
+| Folder                  | Description |
+|--------------------------|-------------|
+| `terraform-iac-folder/` | A Terraform specific folder. |
+| `terraform-iac-folder/azure` | A Terraform specific folder - deploying to Azure. |
+| `arm-template-folder/`  | An ARM Template specific folder **coming soon**. |
+
 ## Notes
 
 This repo is a work in progress and will continue to grow with new examples and improvements.
