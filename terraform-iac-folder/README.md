@@ -21,3 +21,5 @@ The goal of this project is to **sharpen my skills in writing and understanding 
 ## Notes
 
 This repo is a work in progress and will continue to grow with new examples and improvements.
+<br></br>
+Need a cheat sheet? [Check this out!](NOTES.md)
