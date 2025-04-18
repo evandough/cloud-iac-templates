@@ -6,7 +6,7 @@ This repository is a collection of **Infrastructure as Code (IaC)** projects tha
 A collection of Infrastructure as Code (IaC) templates for provisioning and managing cloud resources. 
 
 - **ARM Templates**
-- **Terraform**
+- **[Terraform](terraform-iac-folder)**
 - **Bicep**
 - **AWS CloudFormation**
 
