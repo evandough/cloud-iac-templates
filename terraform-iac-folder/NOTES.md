@@ -9,6 +9,10 @@
 - `terraform destory` - BE CAREFUL! This deletes everything defined in your Terraform configuration.
 
 # Good Resources
+## Documentation
+- Terraform's official [Azure (azurerm) documentation](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
+
+## Videos
 - [Full Terraform Course](https://www.youtube.com/watch?v=V53AHWun17s&t=582s)
 - [Create Azure DevOps Pipeline for Terraform (YAML) | Tutorial for Beginners](https://www.youtube.com/watch?v=4CEAzsdVn4Q&t=597s)
 - [Terraform and Azure Pipelines - Avoid these Beginner's Mistakes!](https://www.youtube.com/watch?v=UaehcmoMAFc&t=144s)
