@@ -10,7 +10,7 @@
 
 # Good Resources
 ## Documentation
-- Terraform's official [Azure (azurerm) documentation](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
+- **Terraform's** official [Azure (azurerm) documentation](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 
 ## Videos
 - [Full Terraform Course](https://www.youtube.com/watch?v=V53AHWun17s&t=582s)
